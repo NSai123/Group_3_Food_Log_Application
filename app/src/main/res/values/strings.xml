@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Food Log Application</string>
+    <string name="open_nav_bar">Open Nav bar</string>
+    <string name="close_nav_bar">Close nav bar</string>
+    <string name="nav_open">Open Nav</string>
+    <string name="nav_close">Close Nav</string>
+</resources>
